@@ -33,25 +33,25 @@ public class GradeAssignment {
             }
             switch (grade) {
                 case 7:
-                    System.out.println("Grade: 7 - Outstanding Achievement!");
+                    System.out.println("Level: 7 - Outstanding Achievement!");
                     break;
                 case 6:
-                    System.out.println("Grade: 6 - Meritorious Achievement!");
+                    System.out.println("Level: 6 - Meritorious Achievement!");
                     break;
                 case 5:
-                    System.out.println("Grade: 5 - Substantial Achievement!");
+                    System.out.println("Level: 5 - Substantial Achievement!");
                     break;
                 case 4:
-                    System.out.println("Grade: 4 - Adequate Achievement!");
+                    System.out.println("Level: 4 - Adequate Achievement!");
                     break;
                 case 3:
-                    System.out.println("Grade: 3 - Moderate Achievement.");
+                    System.out.println("Level: 3 - Moderate Achievement.");
                     break;
                 case 2:
-                    System.out.println("Grade: 2 - Elementary Achievement.");
+                    System.out.println("Level: 2 - Elementary Achievement.");
                     break;
                 case 1:
-                    System.out.println("Grade: 1 - No Achieved.");
+                    System.out.println("Level: 1 - No Achieved.");
                     break;
                 default:
                     System.out.println("Invalid grade assigned.");
